@@ -1,9 +1,9 @@
 # PyTodo
 This is simple To-Do App written in Python language.
 # CLI Version
-CLI (Command Line Interface) works as
+CLI (Command Line Interface) works as follows  
+
 1 -- Shows menu for the options as 
-  
   Menu: 
   1. Add Task
   2. View Tasks
