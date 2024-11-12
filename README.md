@@ -11,6 +11,6 @@ CLI (Command Line Interface) works as
   4. View Completed Tasks
   5. Exit
 
-2 -- Asks user for the choice number.
+2 -- Asks user for the choice number.                                   
 3 -- Calls for susequent functions defined in the program according the choice.
-5 -- Runs until choice 5 is selected.
+5 -- Runs until choice 5 is selected.                                                   
